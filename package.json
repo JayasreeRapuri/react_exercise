@@ -1,0 +1,27 @@
+{
+  "name": "react_exercise",
+  "version": "1.0.0",
+  "description": "\"pracrise\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayasreeRapuri/react_exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayasreeRapuri/react_exercise/issues"
+  },
+  "homepage": "https://github.com/JayasreeRapuri/react_exercise#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4",
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
